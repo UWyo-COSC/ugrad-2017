@@ -17,4 +17,5 @@ The goals of this revision effort are as follows:
 7. Convert the "regular" special topics into actual COSC courses.
 8. Have more classes online, as a potential source of income for the department.
 9. Engineering Honors from Computer Science perspective.
-10. Maintain high expectations for the majors in our program. In particular, we wish to distinguish ourselves from other computer science programs in the region by the fact that our students are the most qualified programmers you can hire.
+10. Coordinate with Computer Engineering for any changes.
+11. Maintain high expectations for the majors in our program. In particular, we wish to distinguish ourselves from other computer science programs in the region by the fact that our students are the most qualified programmers you can hire.
