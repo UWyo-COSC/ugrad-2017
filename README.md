@@ -9,3 +9,4 @@ The goals of this revision effort are as follows:
    * to create pathways for non-majors to take more of our courses, especially upper-division courses of broad appeal.
 3. Reconsider requirements for a Minor in Computer Science.
 4. Adopt one or more Certificates in Computer Science, e.g., for Machine Learning, Cybersecurity, etc.
+5. Convert the "regular" special topics into actual COSC courses.
